@@ -69,7 +69,7 @@ The notebook includes:
 ## 🚀 How to Run Locally
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/nuragajraj/superstore-usa-analysis.git
+   git clone https://github.com/nuragajraj/Data Analysis and Visualization of Superstore Sales Data.git
    cd superstore-usa-analysis
 
 2. **Install Dependencies**
@@ -78,7 +78,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 ```
 3. **Run the Notebook**
 ```bash
-jupyter notebook Superstore_USA_Analysis.ipynb
+jupyter notebook project1.ipynb
 ```
 ## 🧠 Insights
 - Regular Air is the most used shipping method (~74%)
